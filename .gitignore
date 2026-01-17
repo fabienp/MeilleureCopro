@@ -1,0 +1,21 @@
+# Virtual environment
+venv*/
+venv_meilleure_copro/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
